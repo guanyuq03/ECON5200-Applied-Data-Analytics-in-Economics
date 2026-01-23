@@ -28,15 +28,6 @@ When regional prices are considered, the gap becomes even more pronounced. The B
 
 Overall, the results show that **national averages and standard CPI weights can mask significant inflation experienced by specific groups**, particularly students.
 
----
-
-## Why Comparing Raw Indices with Different Base Years Is a “Data Crime”
-
-Comparing raw indices with different base years is a data crime because it mixes numbers that are on different scales, leading to misleading visual comparisons and incorrect conclusions.
-
-In the raw CPI chart, tuition appears much larger than streaming services because the tuition index is based on an older base period (such as 1982–1984), while streaming uses a much later base year (such as 2002). In this case, the value “100” does not represent the same starting point for the two series.
-
-As a result, tuition looks “huge” and streaming looks “tiny,” even though this difference mostly reflects how the indices are constructed rather than real inflation dynamics. Normalization fixes this problem by placing all series on a common base year, allowing fair and meaningful comparisons.
 
 ---
 
