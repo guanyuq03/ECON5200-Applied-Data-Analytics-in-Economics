@@ -1,4 +1,4 @@
-# Lab 5: The Architecture of Bias
+# Lab 6: The Architecture of Bias
 
 ## Overview
 This lab investigates how bias is introduced at the level of the **Data Generating Process (DGP)** and sampling design, before any model is trained. Using simulations and real-world data, the project demonstrates how sampling error, covariate shift, and engineering failures can invalidate statistical inference and machine learning results.
