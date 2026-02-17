@@ -15,6 +15,12 @@ All projects and labs in this repository emphasize interpretability, reproducibi
 
 ---
 
+## Concept Extension — Return-Aware Experimentation
+
+In return-aware experimentation, as practiced at :contentReference[oaicite:0]{index=0}, decision thresholds are optimized around expected business value rather than fixed statistical conventions. Unlike the academic standard of *p* < 0.05—which treats all errors symmetrically—return-aware frameworks explicitly weigh the cost of false positives against the opportunity cost of delayed action. This reframes significance levels as tunable parameters aligned with revenue impact, user experience, and risk tolerance. In practice, statistical evidence is necessary but not sufficient—the final threshold is a business decision, not a universal scientific constant.
+
+---
+
 ## Repository Contents
 
 - Course labs and assignments  
